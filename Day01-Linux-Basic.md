@@ -33,11 +33,17 @@ Free and open-source
 📂 File & Directory Commands
 
 pwd        # Print current directory
+
 ls         # List files and directories
+
 ls -l      # Long listing format
+
 ls -a      # Show hidden files
+
 cd         # Change directory
+
 mkdir      # Create directory
+
 rmdir      # Remove empty directory
 
 
