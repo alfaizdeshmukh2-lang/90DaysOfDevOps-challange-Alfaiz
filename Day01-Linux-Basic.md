@@ -32,37 +32,44 @@ Free and open-source
 
 📂 File & Directory Commands
 
-pwd        # Print current directory
+pwd               # Print current directory
 
-ls         # List files and directories
+ls                # List files and directories
 
-ls -l      # Long listing format
+ls -l             # Long listing format
 
-ls -a      # Show hidden files
+ls -a             # Show hidden files
 
-cd         # Change directory
+cd                # Change directory
 
-mkdir      # Create directory
+mkdir             # Create directory
 
-rmdir      # Remove empty directory
+rmdir             # Remove empty directory
 
 
 ---
 
 📄 File Operations
 
-touch file.txt     # Create empty file
-cat file.txt       # View file content
-nano file.txt      # Edit file using nano editor
-cp file.txt backup.txt   # Copy file
-mv file.txt newfile.txt  # Rename/move file
-rm file.txt        # Delete file
+touch file.txt           # Create empty file
+
+cat file.txt             # View file content
+
+nano file.txt            # Edit file using nano editor
+
+cp file.txt backup.txt    # Copy file
+
+mv file.txt newfile.txt      # Rename/move file
+
+rm file.txt                   # Delete file
 
 
 ---
 
 👤 User & System Info
 
-whoami      # Show current user
-hostname    # Show system hostname
-uname -a    # Show system information
+whoami            # Show current user
+
+hostname          # Show system hostname
+
+uname -a         # Show system information
